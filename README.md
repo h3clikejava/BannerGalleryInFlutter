@@ -4,6 +4,7 @@
 ![Screenshot](https://github.com/h3clikejava/BannerGalleryInFlutter/blob/master/photos/Screenshot_v1.gif?raw=true)
 
 可配置的属性
+
 |参数名|参数说明|
 |-----|--------|
 |customViewPageItemWidget|自定义内容布局|
@@ -30,6 +31,7 @@
 
 
 使用示例
+
 ```
 /// 构建数据
 List<BannerGalleryBean> _createTestData() {
